@@ -1,2 +1,2 @@
-# bdrelacionales
-Base de datos relacionales
+# Juan Alberto Trejo Alvarado
+4AVP
