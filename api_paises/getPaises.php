@@ -1,6 +1,6 @@
 <?php
 
-    $host = '192.localhost';
+    $host = 'localhost';
     $user = 'root';
     $pass = '';
     $dbname = 'paisesdb';
